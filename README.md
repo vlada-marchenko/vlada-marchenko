@@ -21,7 +21,7 @@ Currently improving my skills and looking for my **first real IT job**.
 
 ## 💻 Featured Projects
 
-###  Psychologists services  
+### 🧠 Psychologists services  
 Psychologists booking application using **React**, **React Router**, and **localStorage**.  
 Features: filters by name/price/popularity, user-specific favourites (heart button), and validated appointment request modal for logged-in users.
 
@@ -29,7 +29,7 @@ Features: filters by name/price/popularity, user-specific favourites (heart butt
 
 ---
 
-###  Travel Truck Rental
+### 🚐 Travel Truck Rental
 Responsive travel truck rental web app built with **Next.js**, **TypeScript**, and **REST API**.  
 Features: dynamic vehicle catalog with filters (location, price, type), booking form with validation and API integration, and adaptive layout with reusable UI components.
 
@@ -48,9 +48,9 @@ Implemented an interactive section for dynamic content toggling
 ## 🗣️ Languages
 
 ![English](https://img.shields.io/badge/English-C1-blue?style=flat-square)
-![German](https://img.shields.io/badge/Polish-B1-lightgrey?style=flat-square)
+![German](https://img.shields.io/badge/German-B1-lightgrey?style=flat-square)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+![Ukrainian](https://img.shields.io/badge/Russian-Fluent-yellow?style=flat-square)
 
 ---
 
