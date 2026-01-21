@@ -2,7 +2,7 @@
 
 ### **Frontend Developer | React | Next.js**
 
-Motivated fullstack developer with hands-on experience in JavaScript, TypeScript, React, Next.js, and familiar with Node.js, and MongoDB.  
+Motivated frontend developer with hands-on experience in JavaScript, TypeScript, React, Next.js, and familiar with Node.js, and MongoDB.  
 Skilled in building responsive web interfaces, working with REST APIs, managing application state, and creating clean, reusable components.  
 Experienced working on both individual and team projects, following Git/GitHub workflows, Agile-like processes, and best coding practices.
 
