@@ -21,8 +21,14 @@ Currently improving my skills and looking for my **first real IT job**.
 
 ## 💻 Featured Projects
 
+### 📚 Read Journey
+Responsive reading tracker web app built with **React**, **TypeScript**, **React Route** and **REST API**.
+Features: recommended books catalog with pagination, adding books to a personal library (duplicate protection), book details modal, and a Reading page with validated start/stop sessions, diary of reading events (with delete), and progress statistics.
+
+🔗 **GitHub:** https://github.com/vlada-marchenko/read_journey
+
 ### 🧠 Psychologists services  
-Psychologists booking application using **React**, **React Router**, and **localStorage**.  
+Psychologists booking application using **React**, **TypeScript** **React Router**, and **localStorage**.  
 Features: filters by name/price/popularity, user-specific favourites (heart button), and validated appointment request modal for logged-in users.
 
 🔗 **GitHub:** https://github.com/vlada-marchenko/psychologists_app
