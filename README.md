@@ -1,77 +1,57 @@
-# 👋 Hi, I'm **Vlada Marchenko**
+# 👋 Hi, I'm Vlada Marchenko
 
-### **Frontend Developer | React | Next.js**
+### **Frontend Developer | React & Next.js Specialist**
+**Hamburg, Germany (Available for Worldwide Remote & B2B Contracts)**
 
-Motivated frontend developer with hands-on experience in JavaScript, TypeScript, React, Next.js, and familiar with Node.js, and MongoDB.  
-Skilled in building responsive web interfaces, working with REST APIs, managing application state, and creating clean, reusable components.  
-Experienced working on both individual and team projects, following Git/GitHub workflows, Agile-like processes, and best coding practices.
+Experienced Frontend Developer specializing in building scalable, high-performance web applications using **Next.js**, **TypeScript**, and **React**. Expert in translating complex designs into responsive, pixel-perfect interfaces with a focus on clean code and modern state management.
 
-Currently improving my skills and looking for my **first real IT job**.
-
----
-
-## 🧰 Tech Stack
-
-**Languages:** JavaScript, TypeScript  
-**Frontend:** React, Next.js, HTML5, CSS3, SASS, REST API, Tailwind  
-**Backend:** Node.js, MongoDB  
-**Tools:** Git, GitHub, Vite, Figma, Zustand, Chrome DevTools
+🚀 **Available for:** Freelance Projects | Long-term B2B Contracts | Remote Collaboration
 
 ---
 
-## 💻 Featured Projects
+## 🧰 Technical Expertise
 
-### 📚 Read Journey
-Responsive reading tracker web app built with **React**, **TypeScript**, **React Route** and **REST API**.
-Features: recommended books catalog with pagination, adding books to a personal library (duplicate protection), book details modal, and a Reading page with validated start/stop sessions, diary of reading events (with delete), and progress statistics.
-
-🔗 **GitHub:** https://github.com/vlada-marchenko/read_journey
-
-### 🧠 Psychologists services  
-Psychologists booking application using **React**, **TypeScript** **React Router**, and **localStorage**.  
-Features: filters by name/price/popularity, user-specific favourites (heart button), and validated appointment request modal for logged-in users.
-
-🔗 **GitHub:** https://github.com/vlada-marchenko/psychologists_app
+* [cite_start]**Core:** JavaScript (ES6+), TypeScript, React, Next.js [cite: 8]
+* [cite_start]**Styling:** SASS/SCSS, Tailwind CSS, CSS Modules, Responsive & Adaptive Design [cite: 8, 10, 30]
+* [cite_start]**State & Logic:** Zustand, React Context, RESTful APIs, Axios/Fetch [cite: 8, 10, 18]
+* [cite_start]**Backend & DB:** Node.js, Express, MongoDB, Firebase Auth [cite: 8, 18, 27]
+* [cite_start]**Tools:** Git/GitHub, Vite, Figma, Vercel, Render [cite: 8, 10]
 
 ---
 
-### 🚐 Travel Truck Rental
-Responsive travel truck rental web app built with **Next.js**, **TypeScript**, and **REST API**.  
-Features: dynamic vehicle catalog with filters (location, price, type), booking form with validation and API integration, and adaptive layout with reusable UI components.
+## 💻 Featured Solutions
 
-🔗 **GitHub:** https://github.com/vlada-marchenko/campers
+### 💊 E-Pharmacy Management System (Full-Stack)
+**[Live Demo](https://your-vercel-link.com) | [Frontend Code](https://github.com/vlada-marchenko/pharmacy) | [Backend Code](https://github.com/vlada-marchenko/pharmacy_backend)**
+* [cite_start]**Problem:** Developing a platform for drug store owners to manage inventories and track real-time sales statistics. [cite: 17]
+* [cite_start]**Key Features:** Secure JWT authentication with session persistence (cookies/localStorage), dynamic shop-specific routing, and complex database relationships. [cite: 18]
+* [cite_start]**Stack:** Next.js, TypeScript, Node.js, Express, MongoDB, Yup. [cite: 18]
 
----
+### 📚 Read Journey (Performance & Logic)
+**[Live Demo](https://your-vercel-link.com) | [Source Code](https://github.com/vlada-marchenko/read_journey)**
+* [cite_start]**Problem:** Building a responsive reading tracker with real-time session validation and statistics. [cite: 21]
+* [cite_start]**Key Features:** Start/stop session flow with validation via Yup, dynamic progress indicators (circular statistics/bars), and robust API error handling. [cite: 22]
+* [cite_start]**Stack:** React, TypeScript, React Router, CSS Modules, React Toastify. [cite: 23]
 
-### 📄 Client Resume Website (Team Project)  
-Single-page online resume built for a client using **HTML5**, **CSS3**, **JavaScript**  
-Implemented an interactive section for dynamic content toggling
-
-🔗 **GitHub:** https://github.com/Kost-prog/masakryczne-slimaki 
+### 🚐 Travel Truck Rental (Dynamic Filtering)
+**[Live Demo](https://your-vercel-link.com) | [Source Code](https://github.com/vlada-marchenko/campers)**
+* [cite_start]**Problem:** Creating a high-conversion vehicle rental platform with dynamic filtering and optimized performance. [cite: 29, 30]
+* [cite_start]**Key Features:** Adaptive layout for all devices, dynamic catalog filtering (location/price/type), and reusable UI component architecture. [cite: 30]
+* [cite_start]**Stack:** Next.js, TypeScript, REST API, CSS3. [cite: 30]
 
 ---
 
 ## 🗣️ Languages
-
-![English](https://img.shields.io/badge/English-C1-blue?style=flat-square)
-![German](https://img.shields.io/badge/German-B1-lightgrey?style=flat-square)
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
-![Ukrainian](https://img.shields.io/badge/Russian-Fluent-yellow?style=flat-square)
-
----
-
-## 📫 Contact Me
-
-[LinkedIn](https://linkedin.com/in/vlada-marchenko)
-[Email](mailto:vvvvadya44@gmail.com)
+* [cite_start]**English:** Advanced (C1) — Professional Working Proficiency [cite: 46]
+* [cite_start]**German:** Intermediate (B1) — Everyday & Professional Communication [cite: 47]
+* [cite_start]**Ukrainian:** Native [cite: 48]
+* [cite_start]**Russian:** Fluent [cite: 49]
 
 ---
 
-## 🏷️ Tech Badges
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+## 📫 Let's Collaborate
+* [cite_start]**LinkedIn:** [linkedin.com/in/vlada-marchenko](https://linkedin.com/in/vlada-marchenko) 
+* [cite_start]**Email:** [vvvvadya44@gmail.com](mailto:vvvvadya44@gmail.com)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
 ---
