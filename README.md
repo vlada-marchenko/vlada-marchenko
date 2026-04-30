@@ -21,6 +21,13 @@ Experienced Frontend Developer specializing in building scalable, high-performan
 
 ## 💻 Featured Solutions
 
+### 🎬 StreamVibe - Movie Streaming Platform
+**[Live Demo](https://movie-streaming-lemon.vercel.app) | [Source Code](https://github.com/vlada-marchenko/movie_streaming)**
+
+* **Problem:** Building a performant content discovery platform with complex routing and real-time API integration.
+* **Key Features:** Implemented dynamic movie/show routing with genre-based navigation, swipeable hero carousel, and paginated cast sections. Established data-fetching architecture: fetch once at route level, pass as props to eliminate redundant API calls.
+* **Stack:** Next.js 15 (App Router), TypeScript, TanStack Query, CSS Modules, TMDB API.
+
 ### 💊 E-Pharmacy Management System (Full-Stack)
 **[Live Demo](https://pharmacy-ten-woad.vercel.app) | [Frontend Code](https://github.com/vlada-marchenko/pharmacy) | [Backend Code](https://github.com/vlada-marchenko/pharmacy_backend)**
 * **Problem:** Developing a platform for drug store owners to manage inventories and track real-time sales statistics. 
