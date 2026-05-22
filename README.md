@@ -41,7 +41,7 @@ Frontend Developer specializing in building scalable, high-performance web appli
 * **Key Features:** Start/stop session flow with validation via Yup, dynamic progress indicators (circular statistics/bars), and robust API error handling.
 * [cite_start]**Stack:** React, TypeScript, React Router, CSS Modules, React Toastify.
 
-### 🐣 Лелека — Pregnancy Tracker (Team Project)
+### 🐣 Leleka — Pregnancy Tracker (Team Project)
 **[Live Demo](https://project-stork-front-six.vercel.app) | [Frontend Code](https://github.com/vlada-marchenko/project-stork-front) | [Backend Code](https://github.com/vlada-marchenko/backend-project-stork)**
 * **Problem:** Team-built pregnancy tracker with personalized week-by-week content. Deployment broke after the project ended — app was completely non-functional in production.
 * **Key Features:** Implemented baby/mom state cards for the journey page and the private week endpoint on the Express backend (personalized week calculation based on due date). Independently restored the broken deployment: diagnosed and fixed cross-domain auth issues (CORS, sameSite cookies, httpOnly token constraints), resolved an infinite spinner caused by an unhandled promise rejection in the auth flow, and seeded MongoDB with missing reference data.
