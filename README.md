@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Vlada Marchenko
 
-### **Frontend Developer | React & Next.js Specialist**
-**Hamburg, Germany (Available for Worldwide Remote & B2B Contracts)**
+### **Frontend Developer | React & Next.js | TypeScript**
+**Hamburg, Germany (Available for Remote Roles & B2B Contracts)**
 
-Frontend Developer specializing in building scalable, high-performance web applications using **Next.js**, **TypeScript**, and **React**. Expert in translating complex designs into responsive, pixel-perfect interfaces with a focus on clean code and modern state management.
+I build production-ready web applications — from authentication systems and REST API integrations to full-stack dashboards with MongoDB backends. I take projects from Figma spec to deployed product, write clean tested code independently, and work effectively across time zones.
 
-🚀 **Available for:** Freelance Projects | Long-term B2B Contracts | Remote Collaboration
+🚀 **Available for:** Remote Employment | B2B Contracts | Freelance Projects
 
 ---
 
@@ -13,7 +13,7 @@ Frontend Developer specializing in building scalable, high-performance web appli
 
 * **Core:** JavaScript (ES6+), TypeScript, React, Next.js 
 * **Styling:** Tailwind CSS, CSS Modules, Responsive & Adaptive Design
-* **Testing:** Vitest, React Testing Library
+* **Testing:** Vitest, React Testing Library, Playwright
 * **State & Logic:** Zustand, React Context, RESTful APIs, Axios/Fetch 
 * **Backend & DB:** Node.js, Express, MongoDB, Firebase Auth 
 * **Tools:** Git/GitHub, Vite, Figma, Vercel, Render 
@@ -26,8 +26,8 @@ Frontend Developer specializing in building scalable, high-performance web appli
 **[Live Demo](https://movie-streaming-lemon.vercel.app) | [Source Code](https://github.com/vlada-marchenko/movie_streaming)**
 
 * **Problem:** Building a performant content discovery platform with complex routing and real-time API integration.
-* **Key Features:** Implemented dynamic movie/show routing with genre-based navigation, swipeable hero carousel, and paginated cast sections. Established data-fetching architecture: fetch once at route level, pass as props to eliminate redundant API calls.
-* **Stack:** Next.js 15 (App Router), TypeScript, TanStack Query, CSS Modules, TMDB API.
+* **Key Features:** Implemented dynamic movie/show routing with genre-based navigation, swipeable hero carousel, and paginated cast sections. Established data-fetching architecture: fetch once at route level, pass as props to eliminate redundant API calls. Added 30+ unit tests with React Testing Library/Vitest and 19 e2e tests with Playwright. Image lazy-loading reduced initial load time by 40%.
+* **Stack:** Next.js 15 (App Router), TypeScript, TanStack Query, Vitest, Playwright, CSS Modules, TMDB API.
 
 ### 💊 E-Pharmacy Management System (Full-Stack)
 **[Live Demo](https://pharmacy-ten-woad.vercel.app) | [Frontend Code](https://github.com/vlada-marchenko/pharmacy) | [Backend Code](https://github.com/vlada-marchenko/pharmacy_backend)**
@@ -58,6 +58,7 @@ Frontend Developer specializing in building scalable, high-performance web appli
 ---
 
 ## 📫 Let's Collaborate
+* **Portfolio:** [vladamarchenko.vercel.app](https://vladamarchenko.vercel.app)
 * **LinkedIn:** [linkedin.com/in/vlada-marchenko](https://linkedin.com/in/vlada-marchenko) 
 * **Email:** [vvvvadya44@gmail.com](mailto:vvvvadya44@gmail.com)
 
